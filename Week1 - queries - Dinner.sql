@@ -63,3 +63,7 @@ group by 1,2
 select customer_id,product_name, frequency
 from item_frequency
 ;
+
+
+
+
